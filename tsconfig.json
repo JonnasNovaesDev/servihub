@@ -1,0 +1,11 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/config-typescript" },
+    { "path": "packages/utils" },
+    { "path": "packages/database" },
+    { "path": "packages/ui" },
+    { "path": "apps/web" },
+    { "path": "apps/admin" }
+  ]
+}

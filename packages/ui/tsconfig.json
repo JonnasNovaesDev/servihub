@@ -1,0 +1,7 @@
+{
+  "extends": "@repo/config-typescript/nextjs.json",
+  "compilerOptions": {
+    "rootDir": "src"
+  },
+  "include": ["src"]
+}
