@@ -23,6 +23,7 @@
     "prisma": "^5.14.0",
     "tsx": "^4.15.0",
     "typescript": "^5.4.0",
+    "@types/node": "^20.14.0",
     "@repo/config-typescript": "workspace:*"
   }
 }

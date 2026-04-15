@@ -18,6 +18,7 @@
     "zod": "^3.23.0",
     "clsx": "^2.1.0",
     "class-variance-authority": "^0.7.0",
+    "@auth/prisma-adapter": "^2.4.0",
     "@repo/database": "workspace:*",
     "@repo/ui": "workspace:*",
     "@repo/utils": "workspace:*"
